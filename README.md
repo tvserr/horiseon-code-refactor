@@ -10,7 +10,11 @@ N/A
 
 ## Usage
 
-N/A
+The following image displays the webpage for Horiseon:
+
+![Horiseon webpage](./assets/images/horiseon-code-refactor_index.html.png)
+
+https://tvserr.github.io/horiseon-code-refactor/
 
 ## Credits
 
